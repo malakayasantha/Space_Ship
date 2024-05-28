@@ -37,7 +37,7 @@ This setup and operation allow the spaceship to navigate through space, avoid ob
  ![SP3](https://github.com/malakayasantha/Space_Ship/assets/94890947/09ca5243-5511-49b3-bf3e-3c4fd4332f7c)
 
 # Used Tools
-Atelier B
+Atelier B,
 ProB
 
 
